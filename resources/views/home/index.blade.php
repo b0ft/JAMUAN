@@ -146,10 +146,18 @@
                         <div class="team-item">
                             <div class="d-flex">
                                 <div class="flex-shrink-0 d-flex flex-column align-items-center mt-4 pt-5" style="width: 75px;">
-                                    <a class="btn btn-square text-primary bg-white my-1" href=""><i class="fab fa-facebook-f"></i></a>
-                                    <a class="btn btn-square text-primary bg-white my-1" href=""><i class="fab fa-twitter"></i></a>
-                                    <a class="btn btn-square text-primary bg-white my-1" href=""><i class="fab fa-instagram"></i></a>
-                                    <a class="btn btn-square text-primary bg-white my-1" href=""><i class="fab fa-linkedin-in"></i></a>
+                                    <a class="btn btn-square text-primary bg-white my-1" href="https://www.facebook.com/muhammad.alvin.5055?mibextid=ZbWKwL" target="_blank2">
+                                        <i class="fab fa-facebook-f"></i>
+                                    </a>
+                                    <a class="btn btn-square text-primary bg-white my-1" href="https://twitter.com/alfin7710?t=QVWkpD1IrvaOmEUEjpeWDg&s=09" target="_blank2">
+                                        <i class="fab fa-twitter"></i>
+                                    </a>
+                                    <a class="btn btn-square text-primary bg-white my-1" href="https://instagram.com/alvin7710?igshid=MzNlNGNkZWQ4Mg==" target="_blank2">
+                                        <i class="fab fa-instagram"></i>
+                                    </a>
+                                    <a class="btn btn-square text-primary bg-white my-1" href="https://www.linkedin.com/in/muhammad-alfin-khaerudin-286a5b231" target="_blank2">
+                                        <i class="fab fa-linkedin-in"></i>
+                                    </a>
                                 </div>
                                 <img class="img-fluid rounded w-100" src="/assets/img-profile/alfin.jpg" alt="">
                             </div>
@@ -165,12 +173,17 @@
                         <div class="team-item">
                             <div class="d-flex">
                                 <div class="flex-shrink-0 d-flex flex-column align-items-center mt-4 pt-5" style="width: 75px;">
-                                    <a class="btn btn-square text-primary bg-white my-1" href=""><i class="fab fa-facebook-f"></i></a>
-                                    <a class="btn btn-square text-primary bg-white my-1" href=""><i class="fab fa-twitter"></i></a>
-                                    <a class="btn btn-square text-primary bg-white my-1" href=""><i class="fab fa-instagram"></i></a>
-                                    <a class="btn btn-square text-primary bg-white my-1" href=""><i class="fab fa-linkedin-in"></i></a>
+                                    <a class="btn btn-square text-primary bg-white my-1" href="https://www.facebook.com/aldysych/" target="_blank2">
+                                        <i class="fab fa-facebook-f"></i>
+                                    </a>
+                                    <a class="btn btn-square text-primary bg-white my-1" href="https://www.instagram.com/aldysych/" target="_blank2">
+                                        <i class="fab fa-instagram"></i>
+                                    </a>
+                                    <a class="btn btn-square text-primary bg-white my-1" href="https://www.linkedin.com/in/aldysyachranie/" target="_blank2">
+                                        <i class="fab fa-linkedin-in"></i>
+                                    </a>
                                 </div>
-                                <img class="img-fluid rounded w-100" src="/assets/img-profile/alfin.jpg" alt="">
+                                <img class="img-fluid rounded w-100" src="/assets/img-profile/aldy.jpg" alt="">
                             </div>
                             <div class="px-4 py-3">
                                 <h5 class="fw-bold m-0">Aldy Syachranie</h5>
@@ -182,12 +195,14 @@
                         <div class="team-item">
                             <div class="d-flex">
                                 <div class="flex-shrink-0 d-flex flex-column align-items-center mt-4 pt-5" style="width: 75px;">
-                                    <a class="btn btn-square text-primary bg-white my-1" href=""><i class="fab fa-facebook-f"></i></a>
-                                    <a class="btn btn-square text-primary bg-white my-1" href=""><i class="fab fa-twitter"></i></a>
-                                    <a class="btn btn-square text-primary bg-white my-1" href=""><i class="fab fa-instagram"></i></a>
-                                    <a class="btn btn-square text-primary bg-white my-1" href=""><i class="fab fa-linkedin-in"></i></a>
+                                    <a class="btn btn-square text-primary bg-white my-1" href="https://www.instagram.com/delvino_ardy/" target="_blank2">
+                                        <i class="fab fa-instagram"></i>
+                                    </a>
+                                    <a class="btn btn-square text-primary bg-white my-1" href="https://www.instagram.com/delvino_ardy/" target="_blank2">
+                                        <i class="fab fa-linkedin-in"></i>
+                                    </a>
                                 </div>
-                                <img class="img-fluid rounded w-100" src="/assets/img-profile/alfin.jpg" alt="">
+                                <img class="img-fluid rounded w-100" src="/assets/img-profile/delvino.jpg" alt="">
                             </div>
                             <div class="px-4 py-3">
                                 <h5 class="fw-bold m-0">Delvino Ardi</h5>
@@ -201,12 +216,14 @@
                         <div class="team-item">
                             <div class="d-flex">
                                 <div class="flex-shrink-0 d-flex flex-column align-items-center mt-4 pt-5" style="width: 75px;">
-                                    <a class="btn btn-square text-primary bg-white my-1" href=""><i class="fab fa-facebook-f"></i></a>
-                                    <a class="btn btn-square text-primary bg-white my-1" href=""><i class="fab fa-twitter"></i></a>
-                                    <a class="btn btn-square text-primary bg-white my-1" href=""><i class="fab fa-instagram"></i></a>
-                                    <a class="btn btn-square text-primary bg-white my-1" href=""><i class="fab fa-linkedin-in"></i></a>
+                                    <a class="btn btn-square text-primary bg-white my-1" href="https://www.instagram.com/syazelaporogrants/" target="_blank2">
+                                        <i class="fab fa-instagram"></i>
+                                    </a>
+                                    <a class="btn btn-square text-primary bg-white my-1" href="https://www.linkedin.com/in/farhan-maulana-undefined-957718248/" target="_blank2">
+                                        <i class="fab fa-linkedin-in"></i>
+                                    </a>
                                 </div>
-                                <img class="img-fluid rounded w-100" src="/assets/img-profile/alfin.jpg" alt="">
+                                <img class="img-fluid rounded w-100" src="/assets/img-profile/farhan.jpg" alt="">
                             </div>
                             <div class="px-4 py-3">
                                 <h5 class="fw-bold m-0">Farhan Maulana Aziz</h5>
@@ -218,12 +235,20 @@
                         <div class="team-item">
                             <div class="d-flex">
                                 <div class="flex-shrink-0 d-flex flex-column align-items-center mt-4 pt-5" style="width: 75px;">
-                                    <a class="btn btn-square text-primary bg-white my-1" href=""><i class="fab fa-facebook-f"></i></a>
-                                    <a class="btn btn-square text-primary bg-white my-1" href=""><i class="fab fa-twitter"></i></a>
-                                    <a class="btn btn-square text-primary bg-white my-1" href=""><i class="fab fa-instagram"></i></a>
-                                    <a class="btn btn-square text-primary bg-white my-1" href=""><i class="fab fa-linkedin-in"></i></a>
+                                    <a class="btn btn-square text-primary bg-white my-1" href="" target="_blank2">
+                                        <i class="fab fa-facebook-f"></i>
+                                    </a>
+                                    <a class="btn btn-square text-primary bg-white my-1" href="" target="_blank2">
+                                        <i class="fab fa-twitter"></i>
+                                    </a>
+                                    <a class="btn btn-square text-primary bg-white my-1" href="" target="_blank2">
+                                        <i class="fab fa-instagram"></i>
+                                    </a>
+                                    <a class="btn btn-square text-primary bg-white my-1" href="" target="_blank2">
+                                        <i class="fab fa-linkedin-in"></i>
+                                    </a>
                                 </div>
-                                <img class="img-fluid rounded w-100" src="/assets/img-profile/alfin.jpg" alt="">
+                                <img class="img-fluid rounded w-100" src="/assets/img-profile/kenya.jpg" alt="">
                             </div>
                             <div class="px-4 py-3">
                                 <h5 class="fw-bold m-0">Kenya Bhanuwati</h5>

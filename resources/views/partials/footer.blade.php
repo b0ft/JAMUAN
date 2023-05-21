@@ -17,26 +17,9 @@
                 <a class="btn btn-link" href="">Contact Us</a>
             </div>
             <div class="col-md-6 col-lg-4">
-                <h5 class="text-white mb-4">Project Gallery</h5>
+                <h5 class="text-white mb-4">Our Maps</h5>
                 <div class="row g-2">
-                    <div class="col-4">
-                        <img class="img-fluid" src="/assets/img/portfolio-1.jpg" alt="Image">
-                    </div>
-                    <div class="col-4">
-                        <img class="img-fluid" src="/assets/img/portfolio-2.jpg" alt="Image">
-                    </div>
-                    <div class="col-4">
-                        <img class="img-fluid" src="/assets/img/portfolio-3.jpg" alt="Image">
-                    </div>
-                    <div class="col-4">
-                        <img class="img-fluid" src="/assets/img/portfolio-4.jpg" alt="Image">
-                    </div>
-                    <div class="col-4">
-                        <img class="img-fluid" src="/assets/img/portfolio-5.jpg" alt="Image">
-                    </div>
-                    <div class="col-4">
-                        <img class="img-fluid" src="/assets/img/portfolio-6.jpg" alt="Image">
-                    </div>
+                    <div class="mapouter"><div class="gmap_canvas"><iframe width="100%" height="100%" id="gmap_canvas" src="https://maps.google.com/maps?q=universitas negeri jakarta&t=&z=15&ie=UTF8&iwloc=&output=embed" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe><a href="https://2yu.co">2yu</a><br><style>.mapouter{position:relative;text-align:right;height:100%;width:100%;}</style><a href="https://embedgooglemap.2yu.co/">html embed google map</a><style>.gmap_canvas {overflow:hidden;background:none!important;height:100%;width:100%;}</style></div></div>
                 </div>
             </div>
         </div>
@@ -49,11 +32,7 @@
                     <script>
                         document.write(new Date().getFullYear());
                     </script>
-                    <a class="border-bottom" href="#">JAMUAN.ID</a>, All Right Reserved. 
-                    
-                    <!--/*** This template is free as long as you keep the footer author’s credit link/attribution link/backlink. If you'd like to use the template without the footer author’s credit link/attribution link/backlink, you can purchase the Credit Removal License from "https://htmlcodex.com/credit-removal". Thank you for your support. ***/-->
-                    {{-- Designed By <a class="border-bottom" href="https://htmlcodex.com">HTML Codex</a>
-                    <br>Distributed By: <a class="border-bottom" href="https://themewagon.com" target="_blank">ThemeWagon</a> --}}
+                    <a class="border-bottom" href="#">JAMUAN.ID</a>, All Right Reserved.
                 </div>
             </div>
         </div>
