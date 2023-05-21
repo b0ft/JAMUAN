@@ -48,11 +48,14 @@
         </button>
         <div class="collapse navbar-collapse" id="navbarCollapse">
             <div class="navbar-nav ms-auto py-0">
-                <a href="" class="nav-item nav-link active">
+                <a href="{{ route('home') }}" class="nav-item nav-link active">
                     <i class="bi bi-house-door-fill"></i> Home
                 </a>
                 <a href="about.html" class="nav-item nav-link">
                     <i class="bi bi-bookmarks-fill"></i> About
+                </a>
+                <a href="about.html" class="nav-item nav-link">
+                    <i class="fa-solid fa-bell-concierge"></i> Services
                 </a>
                 <a href="service.html" class="nav-item nav-link">
                     <i class="fa-solid fa-address-book"></i> Contact Us

@@ -1,15 +1,15 @@
 <?php
 
-namespace App\Http\Controllers\home;
+namespace App\Http\Controllers\landing;
 
 use App\Http\Controllers\Controller;
 use Illuminate\Http\Request;
 
-class HomeController extends Controller
+class LandingController extends Controller
 {
-    public function index()
+    public function home()
     {
-        return view('home.index', [
+        return view('landing.home', [
             'title' => 'Home',
             'logo' => 'assets/logo-jamuan.png',
         ]);
