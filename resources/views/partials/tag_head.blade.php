@@ -27,4 +27,5 @@
     <link href="/css/bootstrap.min.css" rel="stylesheet">
     <!-- Template Stylesheet -->
     <link href="/css/style.css" rel="stylesheet">
+    @vite('resources/js/app.js')
 </head>

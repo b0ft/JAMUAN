@@ -8,7 +8,7 @@
                     <div class="col-lg-6 text-center text-lg-start">
                         <h1 class="text-white mb-4 animated zoomIn">
                             GET YOUR DREAM TO ACHIEVE A BRILLIANT TIME WITH US!!!
-                        </h1>
+                    </h1>
                         <p class="text-white pb-3 animated zoomIn">
                             Time is fast for those who are happy? Feels slow for those who are tormented? Feels tight for those who are lazy? So take your precious time with us...
                         </p>
